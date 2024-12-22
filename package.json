@@ -1,6 +1,6 @@
 {
   "name": "grunt-insert-file-tag",
-  "description": "The best Grunt plugin ever.",
+  "description": "Grunt plugin to insert file contents into tagged locations in source files.",
   "version": "0.1.0",
   "homepage": "https://github.com/ioncakephper/grunt-insert-file-tag",
   "author": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ioncakephperrunt-insert-file-tag.git"
+    "url": "git://github.com/ioncakephper/grunt-insert-file-tag.git" 
   },
   "bugs": {
     "url": "https://github.com/ioncakephper/grunt-insert-file-tag/issues"
@@ -33,6 +33,16 @@
     "grunt-contrib-nodeunit": "^5.0.0"
   },
   "keywords": [
-    "gruntplugin"
+    "grunt",
+    "gruntplugin",
+    "file",
+    "insert",
+    "tag",
+    "content",
+    "include",
+    "embed",
+    "templating",
+    "build",
+    "automation"
   ]
 }

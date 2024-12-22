@@ -1,6 +1,6 @@
 # grunt-insert-file-tag
 
-> The best Grunt plugin ever.
+> Grunt plugin to insert file contents into tagged locations in source files.
 
 ## Getting Started
 This plugin requires Grunt `~0.4.5`
